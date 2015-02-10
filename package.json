@@ -1,0 +1,25 @@
+{
+  "name": "Leaflet.Geodesic",
+  "version": "1.0.0",
+  "description": "Add-on for Leaflet to draw geodesic lines and great circles. A geodesic line is the shortest path between two given positions on the earth surface. Wrapping at lng=180° is handled correctly.",
+  "main": "Leaflet.Geodesic.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://rsboarder@github.com/rsboarder/Leaflet.Geodesic.git"
+  },
+  "keywords": [
+    "leaflet"
+  ],
+  "author": "henrythasler",
+  "license": "GPL v3",
+  "bugs": {
+    "url": "https://github.com/rsboarder/Leaflet.Geodesic/issues"
+  },
+  "homepage": "https://github.com/rsboarder/Leaflet.Geodesic"
+}
